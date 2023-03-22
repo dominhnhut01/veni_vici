@@ -1,0 +1,19 @@
+.attribute-card {
+    background-color: orange;
+    color: white;
+    border-radius: 10px;
+    font-size: 0.9vw;
+    padding-top: 0.5vw;
+    padding-bottom: 0.5vw;
+    padding-left: 0.5vw;
+    padding-right: 0.5vw;
+    margin-top: 0.3vw;
+    margin-bottom: 0.3vw;
+    margin-left: 0.5vw;
+    margin-right: 0.5vw;
+}
+
+.attribute-card:hover {
+    cursor: pointer;
+    background-color: rgb(209, 139, 8);
+}
